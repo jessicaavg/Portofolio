@@ -1,26 +1,49 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Gesturo - Sign Learning and Sign Language Translation Application",
+    "imageSrc": "projects/gesturo.jpg",
+    "description": "Developed a machine learning model using TensorFlow and transfer learning to classify sign language gestures and translate them into text.",
+    "skills": ["Tensorflow", "Python", "Keras"],
+    "demo": "https://drive.google.com/file/d/19_e4nY1jUuAVM6GDlt7lUrJC8nUUgezP/view?usp=sharing",
+    "source": "https://github.com/gesturo-team"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "E-Commerce Data Analysis Website",
+    "imageSrc": "projects/website.jpg",
+    "description": "Conducted a data analysis project using Python, created interactive dashboards with Streamlit, and ensured effective data visualization by applying design and integrity principles.",
+    "skills": ["Python", "Matplotlib", "Seaborn", "Streamlit"],
+    "demo": "https://jessicaavg.streamlit.app/",
+    "source": "https://github.com/jessicaavg/Proyek-Analisis-Data_E-Commerce"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Timing-Point",
+    "imageSrc": "projects/todolist.jpg",
+    "description": "Developed a task management website with to-do lists, duty recaps, and sticky notes, using HTML, CSS, JS, PHP, and MySQL, integrating a database system with front-end features.",
+    "skills": ["HTML", "CSS", "Javascripy", "Laravel","MySQL", "PHP"],
+    "source": "https://github.com/jessicaavg/FP-PemWeb"
+  },
+  {
+    "title": "Design Flower Bouquet Ordering Website ",
+    "imageSrc": "projects/design1.jpg",
+    "description": "Design with Figma",
+    "skills": ["Figma"],
+    "demo": "https://www.figma.com/proto/I6BfwNyButhBRSHbAiIHJ1/project-rpl?node-id=68-20&t=6QiY3TEnsilHoQuB-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
+    "source": "https://www.figma.com/design/I6BfwNyButhBRSHbAiIHJ1/project-rpl?node-id=0-1&t=EPmFWrvaTi6d8Bsv-1"
+  },
+  {
+    "title": "Fundraising App Design to Help People in Need",
+    "imageSrc": "projects/design2.jpg",
+    "description": "Design with Figma",
+    "skills": ["Figma"],
+    "demo": "https://shorturl.at/oEmYJ",
+    "source": "https://shorturl.at/2VxsC"
+  },
+  {
+    "title": "Design of A Web Application Used for Monitoring Infusion Drips of Hospital Patients",
+    "imageSrc": "projects/design3.jpg",
+    "description": "Design with Figma",
+    "skills": ["Figma"],
+    "demo": "https://shorturl.at/ObjuI",
+    "source": "https://shorturl.at/BcXdX"
   }
 ]
