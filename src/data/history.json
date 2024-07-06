@@ -1,0 +1,38 @@
+[
+  {
+    "role": "Informatics",
+    "organisation": "Universitas Amikom Yogyakarta",
+    "startDate": "Sep, 2021",
+    "endDate": "Present",
+    "experiences": [
+      "Study key informatics topics: programming, data structures, databases, networks, web programming, big data, predictive analytics, operations research, AI, IoT, and more.",
+      "Assignments and projects enhance technical and analytical abilities."
+    ],
+    "imageSrc": "history/amikom.png"
+  },
+  {
+    "role": "Machine Learning",
+    "organisation": "Bangkit Academy",
+    "startDate": "Feb",
+    "endDate": "July, 2024",
+    "experiences": [
+      "Learn about the fundamentals of machine learning which includes basic concept and core machine learning.", 
+      "Learn python programming language and use it in machine learning operations.",
+      "Processing data.",
+      "Learn and apply machine learning algoritms.",
+      "Collaborate on final projects with the application of machine learning techniques and tools."
+    ],
+    "imageSrc": "history/bangkit.png"
+  },
+  {
+    "role": "Web Frontend",
+    "organisation": "AMCC",
+    "startDate": "Jan",
+    "endDate": "June, 2022",
+    "experiences": [
+      "Explore frontend material and apply it.", 
+      "Collaborate to create a to-do list website."
+    ],
+    "imageSrc": "history/amcc.png"
+  }
+]
