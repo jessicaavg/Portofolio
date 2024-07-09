@@ -17,7 +17,7 @@
   },
   {
     "title": "Timing-Point - To Do List Website",
-    "imageSrc": "projects/gesturo.png",
+    "imageSrc": "projects/todolist.png",
     "description": "Developed a task management website with task list, task recap, and integrated the database system with front-end features.",
     "skills": ["HTML", "CSS", "Javascripy", "Laravel","MySQL", "PHP"],
     "source": "https://github.com/jessicaavg/FP-PemWeb"
